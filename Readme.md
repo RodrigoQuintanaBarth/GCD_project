@@ -169,7 +169,7 @@ variable, thus, it mostly achieves tidyness.
 One of the requirements is that the variables have descriptive names. I
 found that the current labels for variables were a little over
 abbreviated. Reading features\_info.txt you get to know what does every
-abreviation mean (ex. "t" for "time", "f" for "frequency"). I concluded
+abbreviation mean (ex. "t" for "time", "f" for "frequency"). I concluded
 that variable names would be more descriptive if I get rid of every
 short name and change it for its full name.
 
